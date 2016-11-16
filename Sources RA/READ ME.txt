@@ -1,0 +1,2 @@
+Il n'est pas nécessaire d'ouvrir le projet, mais si vous le voulez, il serait souhaitable de l'ouvrir avec Unity 5.4.2f2 (ou au moins un Unity 5.4.x).
+Le projet devrait recompiler certains assets avant de s'ouvrir (1-2 minutes) puis il faut ouvrir la scène "BackToLezoux", dans laquelle tout se passe.
